@@ -1,0 +1,14 @@
+C:\Users\rithesh.s\source\repos\Rithesh1\Rithesh\bin\Debug\net8.0\Rithesh.exe
+C:\Users\rithesh.s\source\repos\Rithesh1\Rithesh\bin\Debug\net8.0\Rithesh.deps.json
+C:\Users\rithesh.s\source\repos\Rithesh1\Rithesh\bin\Debug\net8.0\Rithesh.runtimeconfig.json
+C:\Users\rithesh.s\source\repos\Rithesh1\Rithesh\bin\Debug\net8.0\Rithesh.dll
+C:\Users\rithesh.s\source\repos\Rithesh1\Rithesh\bin\Debug\net8.0\Rithesh.pdb
+C:\Users\rithesh.s\source\repos\Rithesh1\Rithesh\obj\Debug\net8.0\Rithesh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rithesh.s\source\repos\Rithesh1\Rithesh\obj\Debug\net8.0\Rithesh.AssemblyInfoInputs.cache
+C:\Users\rithesh.s\source\repos\Rithesh1\Rithesh\obj\Debug\net8.0\Rithesh.AssemblyInfo.cs
+C:\Users\rithesh.s\source\repos\Rithesh1\Rithesh\obj\Debug\net8.0\Rithesh.csproj.CoreCompileInputs.cache
+C:\Users\rithesh.s\source\repos\Rithesh1\Rithesh\obj\Debug\net8.0\Rithesh.dll
+C:\Users\rithesh.s\source\repos\Rithesh1\Rithesh\obj\Debug\net8.0\refint\Rithesh.dll
+C:\Users\rithesh.s\source\repos\Rithesh1\Rithesh\obj\Debug\net8.0\Rithesh.pdb
+C:\Users\rithesh.s\source\repos\Rithesh1\Rithesh\obj\Debug\net8.0\Rithesh.genruntimeconfig.cache
+C:\Users\rithesh.s\source\repos\Rithesh1\Rithesh\obj\Debug\net8.0\ref\Rithesh.dll

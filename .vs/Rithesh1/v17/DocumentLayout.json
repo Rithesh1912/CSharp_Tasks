@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rithesh.s\\source\\repos\\Rithesh1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B86C9175-616D-4016-93DF-0309497333F7}|Rithesh\\Rithesh.csproj|c:\\users\\rithesh.s\\source\\repos\\rithesh1\\rithesh\\listtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B86C9175-616D-4016-93DF-0309497333F7}|Rithesh\\Rithesh.csproj|solutionrelative:rithesh\\listtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B86C9175-616D-4016-93DF-0309497333F7}|Rithesh\\Rithesh.csproj|c:\\users\\rithesh.s\\source\\repos\\rithesh1\\rithesh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B86C9175-616D-4016-93DF-0309497333F7}|Rithesh\\Rithesh.csproj|solutionrelative:rithesh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListTask.cs",
+              "DocumentMoniker": "C:\\Users\\rithesh.s\\source\\repos\\Rithesh1\\Rithesh\\ListTask.cs",
+              "RelativeDocumentMoniker": "Rithesh\\ListTask.cs",
+              "ToolTip": "C:\\Users\\rithesh.s\\source\\repos\\Rithesh1\\Rithesh\\ListTask.cs",
+              "RelativeToolTip": "Rithesh\\ListTask.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAwwFkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T09:07:16.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rithesh.s\\source\\repos\\Rithesh1\\Rithesh\\Program.cs",
+              "RelativeDocumentMoniker": "Rithesh\\Program.cs",
+              "ToolTip": "C:\\Users\\rithesh.s\\source\\repos\\Rithesh1\\Rithesh\\Program.cs",
+              "RelativeToolTip": "Rithesh\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAwwBsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T04:55:00.622Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
