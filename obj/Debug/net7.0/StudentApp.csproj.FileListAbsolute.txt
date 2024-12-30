@@ -1,0 +1,15 @@
+C:\Users\rithesh.s\Desktop\Rithesh_frontend\dot  net\StudentApp\bin\Debug\net7.0\StudentApp.exe
+C:\Users\rithesh.s\Desktop\Rithesh_frontend\dot  net\StudentApp\bin\Debug\net7.0\StudentApp.deps.json
+C:\Users\rithesh.s\Desktop\Rithesh_frontend\dot  net\StudentApp\bin\Debug\net7.0\StudentApp.runtimeconfig.json
+C:\Users\rithesh.s\Desktop\Rithesh_frontend\dot  net\StudentApp\bin\Debug\net7.0\StudentApp.dll
+C:\Users\rithesh.s\Desktop\Rithesh_frontend\dot  net\StudentApp\bin\Debug\net7.0\StudentApp.pdb
+C:\Users\rithesh.s\Desktop\Rithesh_frontend\dot  net\StudentApp\obj\Debug\net7.0\StudentApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rithesh.s\Desktop\Rithesh_frontend\dot  net\StudentApp\obj\Debug\net7.0\StudentApp.AssemblyInfoInputs.cache
+C:\Users\rithesh.s\Desktop\Rithesh_frontend\dot  net\StudentApp\obj\Debug\net7.0\StudentApp.AssemblyInfo.cs
+C:\Users\rithesh.s\Desktop\Rithesh_frontend\dot  net\StudentApp\obj\Debug\net7.0\StudentApp.csproj.CoreCompileInputs.cache
+C:\Users\rithesh.s\Desktop\Rithesh_frontend\dot  net\StudentApp\obj\Debug\net7.0\StudentApp.dll
+C:\Users\rithesh.s\Desktop\Rithesh_frontend\dot  net\StudentApp\obj\Debug\net7.0\refint\StudentApp.dll
+C:\Users\rithesh.s\Desktop\Rithesh_frontend\dot  net\StudentApp\obj\Debug\net7.0\StudentApp.pdb
+C:\Users\rithesh.s\Desktop\Rithesh_frontend\dot  net\StudentApp\obj\Debug\net7.0\StudentApp.genruntimeconfig.cache
+C:\Users\rithesh.s\Desktop\Rithesh_frontend\dot  net\StudentApp\obj\Debug\net7.0\ref\StudentApp.dll
+C:\Users\rithesh.s\Desktop\Rithesh_frontend\dot  net\StudentApp\obj\Debug\net7.0\StudentApp.sourcelink.json
